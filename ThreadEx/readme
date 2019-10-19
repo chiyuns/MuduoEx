@@ -1,1 +1,5 @@
 主要是基于对象的方式实现多线程的函数调用
+
+
+编译方式为：
+g++ -c TestThread.cpp Thread.cpp  -o TestThread -lpthread -std=c++11
